@@ -31,8 +31,8 @@ making their journey easier and comfort]
 For Software:
 - [html]
 - []
-- [Libraries used]
-- [Tools used]
+- []
+- [Webpress]
 
 For Hardware:
 - [List main components]
@@ -51,14 +51,12 @@ For Software:
 For Software:
 
 # Screenshots (Add at least 3)
-![Screenshot1](Add screenshot 1 here with proper name)
-*Add caption explaining what this shows*
+![Screenshot1]()https://drive.google.com/file/d/1cA7lrGJUxUbzhGwVfQ2nrDbI-oK_AtsT/view?usp=drive_link
 
-![Screenshot2](Add screenshot 2 here with proper name)
-*Add caption explaining what this shows*
 
-![Screenshot3](Add screenshot 3 here with proper name)
-*Add caption explaining what this shows*
+![Screenshot2]()https://drive.google.com/file/d/1hKbLJwRmyv5zaS50C8Y5OO3yP2XNWIOn/view?usp=drive_link
+
+![Screenshot3](https://drive.google.com/file/d/1UIc_j7lcAyQB4NzxZDy7qYo6GSW2Tyvq/view?usp=drive_link)
 
 # Diagrams
 ![Workflow](Add your workflow/architecture diagram here)
@@ -95,9 +93,9 @@ For Hardware:
 [Add any extra demo materials/links]
 
 ## Team Contributions
-- [Name 1]: [Specific contributions]
-- [Name 2]: [Specific contributions]
-- [Name 3]: [Specific contributions]
+- [Fidha ks]:  [ web developing]
+- [Fathima Nasrin p]: [web developing]
+
 
 ---
 Made with ❤️ at TinkerHub
