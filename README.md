@@ -14,16 +14,16 @@
 [https://dev-onetouchhh.pantheonsite.io/]
 
 ### Project Description
-[A Overall TravelGuide for you
-Enjoy Every Moment
+[A Overall TravelGuide for you .
+Enjoy Every Moment.
 Every Resources are in OneTouch]
 
 ### The Problem statement
-[Travelers can Enjoy Their Trip Without a Travel Agency
+[Travelers can Enjoy Their Trip Without a Travel Agency,
 they can save more money and time]
 
 ### The Solution
-[by providing a website with the complete details of their destination 
+[by providing a website with the complete details of their destination , by
 making their journey easier and comfort]
 
 ## Technical Details
